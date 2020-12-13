@@ -1,0 +1,10 @@
+# Ignored folders
+.idea
+target
+
+# Ignored files
+*.log
+*.iml
+*.jar
+*.war
+
